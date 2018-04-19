@@ -10,7 +10,15 @@ h1{
 font-size: 70px;
 font-weight: bold;
 }
-h2{
+.highlight{
 font-size: 32px;
 font-weight: bold;
 }
+.info{
+  color:gray;
+  font-size:14px;
+}
+.NY{
+  font-size:23px;
+  font-weight: bold;
+  }
