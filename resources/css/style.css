@@ -22,6 +22,10 @@ div{
 font-size: 32px;
 font-weight: bold;
 }
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
 .info{
   color:gray;
   font-size:14px;
@@ -29,6 +33,8 @@ font-weight: bold;
 .NY{
   font-size:23px;
   font-weight: bold;
+  color:white;
+  background-image:url("../images/background.png");
   }
 .nav{
   text-align: left;
