@@ -16,7 +16,7 @@ font-weight: bold;
 color:white;
 }
 div{
-  background-image: url("../images/background.png");
+  background-image: url("../images/Background.png");
 }
 .highlight{
 font-size: 32px;
@@ -34,7 +34,7 @@ h3{
   font-size:23px;
   font-weight: bold;
   color:white;
-  background-image:url("../images/background.png");
+  background-image:url("../images/Background.png");
   }
 .nav{
   text-align: left;
