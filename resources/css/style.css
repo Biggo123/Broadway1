@@ -24,5 +24,15 @@ font-weight: bold;
   }
 .nav{
   text-align: left;
-  color:black;
+  color:white;
+  background-color: dimgray;
+  font-size:11px;
+}
+span{
+  font-size:18px;
+  color:white;
+}
+img{
+  height:50px;
+  width:80px;
 }
